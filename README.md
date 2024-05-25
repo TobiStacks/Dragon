@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **ABOUT:**
 
 this site was created for the purposes of getting familiarized with site hosting and deployment, as well as
@@ -11,3 +12,8 @@ back end development of websites using Django and specifically the Wagtail CMS. 
 * After installation, type ~~python manage.py runserver 0.0.0.0:8000~~ inside the cloned folder
 * The server should now be running on your localhost. To check if you can view the website, navigate to your web browser and type in ~~localhost:8000~~
 * press Ctrl + C to exit the process
+=======
+# Dragon
+* Created using Django & Wagtail CMS
+* Coded in Python and Django HTML
+>>>>>>> 846724c91d861ea04f9e63c1e99772fc8f1c66f3
