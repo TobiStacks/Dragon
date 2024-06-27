@@ -9,6 +9,6 @@ back end development of websites using Django and specifically the Wagtail CMS. 
 * You can choose to make a virtual environment, or skip this step
 * To install the required packages, type pip install -r requirements.txt
 * After installation, type python manage.py runserver 0.0.0.0:8000 inside the cloned folder
-* The server should now be running on your localhost. To check if you can view the website, navigate to your web browser and type in ~~localhost:8000~~
+* The server should now be running on your localhost. To check if you can view the website, navigate to your web browser and type in 'localhost:8000'
 * press Ctrl + C to exit the process
 
