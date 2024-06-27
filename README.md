@@ -1,7 +1,7 @@
 # **ABOUT**
 
 this site was created for the purposes of getting familiarized with site hosting and deployment, as well as
-back end development of websites using Django and specifically the Wagtail CMS. It is modeled as a dummy site and and more so used to showcase an implementation of CSS, Django HTML and Python with Wagtail. Everything from the design, to the streamfields and caching has been manually coded.
+back-end development of websites using Django and specifically the Wagtail CMS. It is modeled as a dummy site and more so used to showcase an implementation of CSS, Django HTML and Python with Wagtail. Everything from the design to the streamfields and caching is manually coded using the Wagtail framework!
 
 # **HOW TO VIEW**
 * Clone the repo into your home folder
